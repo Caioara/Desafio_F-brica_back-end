@@ -30,7 +30,7 @@
 <br><br>
 Em seguinda instale as __dependências:__
 ```
-pip install django djangorestframework
+pip install djangorestframework
 pip install requests
 ```
 
