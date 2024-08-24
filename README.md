@@ -25,7 +25,7 @@
 6. requests
 7. mais sobre no próprios arquivo requirements.txt...
 
-# Para rodar 🚗
+# instalações necessarias 
 É necessário fazer algumas ações. Certifique-se de ter o Python e instalados. Em seguida, crie um novo ambiente virtual ```py -m venv {nome_da_venv}```, e __entre nela__ ```.\{nome_da_venv}\Scripts\activate```.
 <br><br>
 Em seguinda instale as __dependências:__
@@ -33,10 +33,11 @@ Em seguinda instale as __dependências:__
 pip install djangorestframework
 pip install requests
 ```
+# API 🌐
 
-# Escolha da API
+# Escolha
 A princípio, minha prioridade era escolher uma API simples, que me retornasse dados de maneira limpa e que de certa forma fossem fáceis de manipular. A API em questão foi a [Open Library Books API]([https://restcountries.com/](https://rapidapi.com/blog/directory/open-library-books/)), que fornece dados sobre livros com base em ISBNs e outros identificadores, oferecendo informações como título, autor e detalhes de publicação.
-# Acesso a API
+# intalação da API passo a passo
 
 Antes de qualquer coisa é necessario dentro do seu aplicativo Django:
 Configurar o seu Arquivo views.py dessa maneira:
