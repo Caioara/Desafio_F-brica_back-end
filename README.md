@@ -1,6 +1,6 @@
 
 # Desafio referente a Fábrica de Software (Back-End) - UNIPÊ 2024.2 
-### OBJETIVO DO DESAFIO :anger: :
+### OBJETIVO DO DESAFIO :
   Criar um Projeto Django em Template ou API
 #### REQUISITOS FUNCIONAIS
   
@@ -25,7 +25,7 @@
 6. requests
 7. mais sobre no próprios arquivo requirements.txt...
 
-# Para rodar :dizzy:
+# Para rodar 🚗
 É necessário fazer algumas ações. Certifique-se de ter o Python e instalados. Em seguida, crie um novo ambiente virtual ```py -m venv {nome_da_venv}```, e __entre nela__ ```.\{nome_da_venv}\Scripts\activate```.
 <br><br>
 Em seguinda instale as __dependências:__
