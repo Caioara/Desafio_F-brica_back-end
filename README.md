@@ -1,20 +1,10 @@
 
 # Desafio referente a Fábrica de Software (Back-End) - UNIPÊ 2024.2 
 ### OBJETIVO DO DESAFIO :
-  Criar um Projeto Django em Template ou API
-#### REQUISITOS FUNCIONAIS
-  
-  - [x] Deve possuir todo o CRUD do django com duas ou mais entidades
-  - [x] Possua a capacidade de consumir uma API externa gratuita(Sem token de autenticação) da escolha do usuário para guardar um dado.
-            
-#### REQUISITOS NÃO FUNCIONAIS
+  Criar um Projeto Django em Template ou API.
 
-  - [x] Indentação do Código.
-  - [x] Estruturação do Código (Pastas, Classes e Arquivos con nomes concisos e referentes).
+  O desafio deve possui Crud do Django com duas ou mais entidades e possuir a capacidade de consumir uma API externa gratuita(Sem token de autenticação) da escolha do usuário para guardar um dado.
 
-#### PONTUAÇÃO EXTRA
-- [x] página funcional e organizada com HTML e CSS (Django template).
-- [x] Commits Semânticos
 
 ## Requerimentos
 1. asgiref
