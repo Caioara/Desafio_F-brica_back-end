@@ -3,7 +3,7 @@
 
 # Minhas considerações 🌠
 
-  Trabalhar nesse projeto foi uma experiencia e tanto, ter que fazer um desafio em menos de dois dias foi super puxado e desafiador, além disso ver como fuciona uma API foi muito legal e divertido, até então o meu primeiro contato com API e Djungo foi nesse semetre na fabrica e tem sido divertido trabalhar com isso.
+  Trabalhar nesse projeto foi uma experiencia e tanto, ter que fazer um desafio em menos de dois dias foi super puxado e desafiador, além disso ver como fuciona uma API foi muito legal e divertido, até então o meu primeiro contato com API e Djungo foi nesse semetre na fabrica e tem sido divertido trabalhar com isso, obrigado pela a oportunidade de ta podendo participar do desafio.
 
 
 ## OBJETIVO DO DESAFIO :
