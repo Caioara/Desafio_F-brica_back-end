@@ -1,11 +1,12 @@
 
-# Desafio referente a Fábrica de Software (Back-End) - UNIPÊ 2024.2 
+# 🌐Desafio Fábrica de Software (Back-End) - UNIPÊ 2024.2🌐
 
 # Minhas considerações 🌠
 
-  Trabalhar nesse projeto foi uma experiencia e tanto, ter que fazer um desafio em menos de dois dias foi super puxado e desafiador, ver como fuciona uma API foi muito legal e divertido.
+  Trabalhar nesse projeto foi uma experiencia e tanto, ter que fazer um desafio em menos de dois dias foi super puxado e desafiador, além disso ver como fuciona uma API foi muito legal e divertido, até então o meu primeiro contato com API e Djungo foi nesse semetre na fabrica e tem sido divertido trabalhar com isso.
 
-### OBJETIVO DO DESAFIO :
+
+## OBJETIVO DO DESAFIO :
   Criar um Projeto Django em Template ou API.
 
   O desafio deve possui Crud do Django com duas ou mais entidades e possuir a capacidade de consumir uma API externa gratuita(Sem token de autenticação) da escolha do usuário para guardar um dado.
