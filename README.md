@@ -5,7 +5,6 @@
 #### REQUISITOS FUNCIONAIS
   
   - [x] Deve possuir todo o CRUD do django com duas ou mais entidades
-  - [x] Deve sem bem documentado, contendo Requirenents.txt e README.md.
   - [x] Possua a capacidade de consumir uma API externa gratuita(Sem token de autenticação) da escolha do usuário para guardar um dado.
             
 #### REQUISITOS NÃO FUNCIONAIS
@@ -31,14 +30,9 @@
 <br><br>
 Em seguinda instale as __dependências:__
 ```
-pip install django
 pip install django djangorestframework
 pip install requests
 ```
-
-
-
-
 
 # Escolha da API
 A princípio, minha prioridade era escolher uma API simples, que me retornasse dados de maneira limpa e que de certa forma fossem fáceis de manipular. A API em questão foi a [Open Library Books API]([https://restcountries.com/](https://rapidapi.com/blog/directory/open-library-books/)), que fornece dados sobre livros com base em ISBNs e outros identificadores, oferecendo informações como título, autor e detalhes de publicação.
@@ -108,9 +102,6 @@ E finalizando criando dentro da template de do aplicativo se não tiver um "adic
 
 ```
 
- #### Agradecimentos:
-- Nattan: Dando aquele supporte maroto :nerd_face:
-- Lucas: Uma didatica foda, sabe oque ta fazendo :nerd_face:
 
 
 
