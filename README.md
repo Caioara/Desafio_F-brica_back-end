@@ -1,5 +1,10 @@
 
 # Desafio referente a Fábrica de Software (Back-End) - UNIPÊ 2024.2 
+
+# Minhas considerações 🌠
+
+  Trabalhar nesse projeto foi uma experiencia e tanto, ter que fazer um desafio em menos de dois dias foi super puxado e desafiador, ver como fuciona uma API foi muito legal e divertido.
+
 ### OBJETIVO DO DESAFIO :
   Criar um Projeto Django em Template ou API.
 
@@ -25,9 +30,9 @@ pip install requests
 ```
 # API 🌐
 
-# Escolha
+### Escolha
 A princípio, minha prioridade era escolher uma API simples, que me retornasse dados de maneira limpa e que de certa forma fossem fáceis de manipular. A API em questão foi a [Open Library Books API]([https://restcountries.com/](https://rapidapi.com/blog/directory/open-library-books/)), que fornece dados sobre livros com base em ISBNs e outros identificadores, oferecendo informações como título, autor e detalhes de publicação.
-# intalação da API passo a passo
+### intalação da API passo a passo
 
 Antes de qualquer coisa é necessario dentro do seu aplicativo Django:
 Configurar o seu Arquivo views.py dessa maneira:
