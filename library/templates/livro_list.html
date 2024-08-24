@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Livros</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+</head>
+<body>
+    <h1>Lista de Livros</h1>
+    <a href="{% url 'adicionar_livro' %}">Adicionar Novo Livro</a>
+    <ul>
+        {% for livro in livros %}
+            <li>
+                {{ livro.titulo }} - {{ livro.data_publicacao }} - {{ livro.autor }} ({{ livro.categoria.nome }})
+            </br><a href="{% url 'editar_livro' livro.pk %}">Editar</a>
+                <a href="{% url 'excluir_livro' livro.pk %}">Excluir</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
