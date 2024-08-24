@@ -66,7 +66,7 @@ urlpatterns = [
 ]
  
 ```
-E finalizando criando dentro da template de do aplicativo se não tiver um "adicionar_livro.html" e configurando desse jeito:
+E finalizando criando dentro do aplicativo uma pasta com o nome template e criar uma arquivo com o nome "adicionar_livro.html" e configurando desse jeito:
 ```
 <!DOCTYPE html>
 <html>
